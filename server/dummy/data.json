@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Apple iPhone X",
+      "price": 70000,
+      "avatar": "https://static.toiimg.com/photo/61654288.cms"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy Note 10",
+      "price": 60000,
+      "avatar": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/w830_wm_brw/public/article_images/2019/08/galaxy-note-10-s-pen-out-1.jpg?itok=03gHRFqe"
+    },
+    {
+      "id": 3,
+      "name": "Asus Zenfone 6",
+      "price": 20000,
+      "avatar": "https://assets.mspimages.in/wp-content/uploads/2019/05/Asus-Zenfone-6-696x365.jpg"
+      
+    },
+    {
+      "id": 4,
+      "name": "Mi TV",
+      
+      "price": 30000,
+      "avatar": "https://i.gadgets360cdn.com/products/televisions/large/1548153503_832_mi_49-inch-led-full-hd-tv-4a-pro.jpg"
+      
+    },
+    {
+      "id": 5,
+      "name": "Sony Bravia 43in Smart TV",
+      
+      "price": 80000,
+      "avatar": "https://images-na.ssl-images-amazon.com/images/I/61MTM4sWe9L._SX425_.jpg"
+      
+    },
+    {
+      "id": 6,
+      "name": "LG Washing Machine",
+      
+      "price": 30000,
+      "avatar": "https://www.lg.com/in/images/washing-machines/md05987837/gallery/medium01.jpg"
+      
+    },
+    {
+      "id": 7,
+      "name": "Samsung AC",
+      
+      "price": 40000,
+      "avatar": "https://5.imimg.com/data5/AK/WK/MY-2646245/samsung-ac-500x500.jpg"
+    },
+    {
+      "id": 27,
+      "name": "One Plus 6",
+      "price": 40000,
+      "avatar": "https://technofaq.org/wp-content/uploads/2018/08/oneplus-6.jpg"
+      
+    },
+    {
+      "id": 8,
+      "name": "Sony Bravia 55in Smart TV",
+      "price": 80000,
+      "avatar": "https://images-na.ssl-images-amazon.com/images/I/61MTM4sWe9L._SX425_.jpg"
+    },
+    {
+      "id": 9,
+      "name": "LG Washing Machine plus",
+      "price": 30000,
+      "avatar": "https://www.lg.com/in/images/washing-machines/md05987837/gallery/medium01.jpg" 
+    },
+    {
+      "id": 10,
+      "name": "Samsung AC 2",
+      "price": 40000,
+      "avatar": "https://5.imimg.com/data5/AK/WK/MY-2646245/samsung-ac-500x500.jpg"
+    },
+    {
+      "id": 11,
+      "name": "One Plus 7",
+      "price": 40000,
+      "avatar": "https://technofaq.org/wp-content/uploads/2018/08/oneplus-6.jpg"
+    }
+  ]
+}
