@@ -7,5 +7,5 @@
 
 1. step 1 : Install Node Modules (npm install)
 2. Step 2 : npm run startServer
-3. Step 2 : npm start
+3. Step 3 : In new tab run:  npm start
 4. open chrome browser and paste this link http://localhost:3000/products
